@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.1.1
+
+### Patch Changes
+
+- Only apply Suspense boundary on the browser
+  Submitted by [@JoviDeCroock](https://github.com/JoviDeCroock) (See [#3454](https://github.com/urql-graphql/urql/pull/3454))
+- Show a warning when the `Suspense` boundary is missing under the UrqlProvider
+  Submitted by [@JoviDeCroock](https://github.com/JoviDeCroock) (See [#3449](https://github.com/urql-graphql/urql/pull/3449))
+
 ## 1.1.0
 
 ### Minor Changes
